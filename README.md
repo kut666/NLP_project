@@ -8,9 +8,9 @@ Ypu can read project report [here](https://github.com/kut666/NLP_project/report.
 
 
 ## Contributors 
-**Orkhan Makhmudov**: collected data from phrasebook A.G. Goryanov, visualized comparison of models and word embedings.
-**Denis Tsybrik**: collected data from laws, learned and validated GRU, GRU+Attention, LSTM+Attention -based models.
-**Korzh Bogdan**: rewrote the transliterator from latin to cyrillic, build a parser to collect more than 8000 translation pairs from news sites. Some of those websites were not translated to Russian, but had Ukrainian translation instead, so Yandex Cloud API was used to translate targets to Russian, a total of 2 million characters, learned and validated Transormer+Attention -based models.
+- **Orkhan Makhmudov**: collected data from phrasebook A.G. Goryanov, visualized comparison of models and word embedings.
+- **Denis Tsybrik**: collected data from laws, learned and validated GRU, GRU+Attention, LSTM+Attention -based models.
+- **Korzh Bogdan**: rewrote the transliterator from latin to cyrillic, build a parser to collect more than 8000 translation pairs from news sites. Some of those websites were not translated to Russian, but had Ukrainian translation instead, so Yandex Cloud API was used to translate targets to Russian, a total of 2 million characters, learned and validated Transormer+Attention -based models.
 
 
 ## Results
