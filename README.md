@@ -4,7 +4,7 @@ The project report contains a description of a model's for machine translation f
 
 
 ## Report 
-Ypu can read project report [here](https://github.com/kut666/NLP_project/blob/main/report.pdf)
+You can read project report [here](https://github.com/kut666/NLP_project/blob/main/report.pdf)
 
 
 ## Contributors 
@@ -24,7 +24,7 @@ Ypu can read project report [here](https://github.com/kut666/NLP_project/blob/ma
 
 ## Sample outputs
 
-**Transformers + attention **
+### Transformers + attention
 
 **[crh]:** бу иляджны насыл ичмели
 
@@ -32,10 +32,27 @@ Ypu can read project report [here](https://github.com/kut666/NLP_project/blob/ma
 
 **[ru_original]:** как это лекарство пить
 
----
 
 **[crh]:** бугунь акъшам мешгъульсинъизми
 
 **[ru_original]:** вы не заняты сегодня вечером
 
 **[ru_original]:** сегодня вечером сегодня вечером
+
+---
+
+
+### GRU + Attention
+
+**[crh]:** азат этильгенлернинъ энъ къартынынъ яшы энъ генчининъ исе яшы бар
+
+**[ru_original]:** самому старшему из уволенных лет самому младшему летом исполнилось
+
+**[ru_original]:** самому младшему из уволенных исполнилось лет самому старшему
+
+
+**[crh]:** черноморское районы северное владимировка газнен теминлевчерноморское районы северное владимировка к
+
+**[ru_original]:** газификация северного владимировка черноморского районачерноморский район северное владимировка ст
+
+**[ru_original]:** газификация сел красногвардейского района красногвардейский район
