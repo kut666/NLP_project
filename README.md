@@ -4,7 +4,7 @@ The project report contains a description of a model's for machine translation f
 
 
 ## Report 
-Ypu can read project report [here](https://github.com/kut666/NLP_project/report.pdf)
+Ypu can read project report [here](https://github.com/kut666/NLP_project/blob/main/report.pdf)
 
 
 ## Contributors 
