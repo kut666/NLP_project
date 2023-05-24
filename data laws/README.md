@@ -19,13 +19,13 @@ pdf_to_txt.py
 ```
 ### Step 2. Studying the structure of the document
 
-- Until 2014 
+- Until 2014 (it has a similar structure to journals published after 2014)
 - After 2014 notebook: ```document_structure_part_2.ipynb ```
 
 ### Step 3. Creating text-pairs crh-ru from data 
 
 - Until 2014 script: ```pairs_creation_part1.py```
-- After 2014 script: ```pairs_creation_part1.py ```
+- After 2014 script: ```pairs_creation_part2.py ```
 
 ### Step 4. Selecting sentences from the paragraph
 script: 
